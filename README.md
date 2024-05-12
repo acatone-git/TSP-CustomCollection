@@ -19,7 +19,7 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 - Make your changes & save them as a "PNG" ("bg.png" & "icon.png" respectively)
 - Replace the default files with the ones you've just created
 
-## Copy Collection to the TSP 
+## Copy the Collection to the TSP 
 
 - Copy your newly created collection (ex. Cozy Games) to the "Best" folder on the TrimUI Smart Pro
 - Enjoy!
