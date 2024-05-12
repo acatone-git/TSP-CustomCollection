@@ -2,7 +2,7 @@
 
 A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 
-![demo](https://github.com/acatone-git/TSP-CustomCollection/assets/67967964/197d94fa-3911-4bfa-b9f3-18a48cbdb1bc)
+![demo](https://github.com/acatone-git/TSP-CustomCollection/assets/67967964/03791514-e9c4-41b6-beaa-c26e8801be98)
 
 # Instructions
  
