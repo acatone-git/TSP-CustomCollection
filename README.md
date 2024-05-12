@@ -6,7 +6,7 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 
 # Instructions
  
- ## 1. Create / Naming the Custom Collection
+ ## 1. Create / Name the Custom Collection
 
 - Download & extract the TSP-CustomCollection archive from the [release page](https://github.com/acatone-git/TSP-CustomCollection/releases)
 - Rename the extracted folder & the "Rename_&_Run.bat" file to whatever you wish to name your collection
