@@ -16,7 +16,7 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 
 - Go to https://pixlr.com/express/ & open the "bg.pxz / icon.pxz" in the "Templates" folder
 - Make your changes & save them as a "PNG" ("bg.png" & "icon.png" respectively)
-- Replace the default files with the ones you've just created
+- Replace the default files in the EasyCollection with the ones you've just created
 
 ## 3. Copy Games & the Custom Collection to the TSP 
 
