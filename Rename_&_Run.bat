@@ -1,0 +1,1 @@
+copy config.json.bak config.json && fart config.json "Rename_&_Run" "%~n0"

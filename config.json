@@ -1,0 +1,15 @@
+{
+"label":"Rename_&_Run",
+"icon":"icon.png",
+"iconsmall":"icon.png",
+"iconlist":"icon.png",
+"background":"bg.png",
+"themecolor":"FFFFFF",
+"launch":"launch.sh",
+"rompath":"./Roms",
+"imgpath":"./Roms",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"gba|gb|gbc|nes|fc|cue|m3u|chd|cso|iso|nds|wsc|ws|smc|sfc|pce|sms|md|gg|z64|cdi|gdi|zip|a26"
+}
