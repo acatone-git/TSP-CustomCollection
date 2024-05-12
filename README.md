@@ -23,6 +23,7 @@
 ## Supported File Extensions
 
 | System | Extension |
+|     :---:    |     :---:      |
 | FBA NEO | .ZIP |
 | Atari 2600 | .A26 |
 | WonderSwan | .WSC / .WS |
@@ -40,6 +41,7 @@
 | Dreamcast | .CDI / .GDI |
 | Playstation | .CUE / .M3U / .CHD |
 | PSP | .CSO / .ISO |
+
 # Credits & Thanks
 
 Jack Brookes (Template Photos) - https://www.flickr.com/photos/73665389@N02/albums/72157651214652751
