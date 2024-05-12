@@ -16,7 +16,7 @@
 ## Change the default Background & Icon
 
 - Go to https://pixlr.com/express/ & open the "bg.pxz / icon.pxz" in the "EasyCollection\Template" folder
-- Make your changes & save them as a "PNG" (bg.png for the background / icon.png for the icon)
+- Make your changes & save them as a "PNG" - "bg.png" for the background & "icon.png" for the icon
 - Delete / Replace the default files with yours
 - Done!
 
