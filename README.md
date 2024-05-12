@@ -21,7 +21,7 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 ## 3. Copy Games & the Custom Collection to the TSP 
 
 - Place your **uncompressed ROMs** & scraped images in the custom collection "Roms" folder
-- - (Check the *Supported file extensions* list below for more details)
+   - (Check the *Supported file extensions* list below for more details)
 - Copy your custom collection (ex. Cozy Games) to the "Best" folder on the TrimUI Smart Pro
 - Enjoy!
 
