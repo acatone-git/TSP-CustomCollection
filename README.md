@@ -15,8 +15,9 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
   
 ## 2. Change the default Background & Icon
 
-- Go to https://pixlr.com/express/ & open the "bg.pxz / icon.pxz" in the "Templates" folder
+- Go to https://pixlr.com/express/ & open the "bg.pxz / icon.pxz" files in the "Templates" folder
 - Make your changes & save them as a "PNG" ("bg.png" & "icon.png" respectively)
+  - Use the "Layers" bar on the left to add, move or remove any of the elements
 - Replace the default files in the Custom Collection with the ones you've just created
 
 ## 3. Copy ROMs & Custom Collection to the TSP 
