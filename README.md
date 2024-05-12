@@ -10,7 +10,7 @@ A simpler way to create custom collections on the TrimUI Smart Pro
 
 - Download & extract the EasyCollection archive from the release page
 - Rename the extracted folder (EasyCollection) & the executable "Rename_&_Run" to whatever you wish to name your collection (Cozy Games, Best Fighting Games, Digimon Collection etc.)
-- Run the newly renamed executable (Rename_&_Run.bat >> Cozy Games.bat) to set the name of your collection.
+- Run the newly renamed executable to set the name of your collection (Rename_&_Run.bat >> Cozy Games.bat, for example) 
 - Place your **uncompressed roms** & scraped images in the "Roms" folder (Check the *Supported Extensions* list)
 - Copy the new collection in the "Best" folder on the TrimUI Smart Pro
 - Done!
