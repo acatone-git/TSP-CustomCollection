@@ -4,22 +4,42 @@
 
 # Instructions
  
- ## Create / Naming the Collection
+ ## Create / Naming a Collection
 
 - Download & extract the EasyCollection template from the release page
 - Rename the extracted folder (EasyColletion) & the executable "Rename_&_Run" to whatever you wish to name your collection (Digimon Collection, Final Fantasy Collection etc.)
-- Run the newly renamed executable (Rename_&_Run.bat >> Digimon Collection.bat for example) to set the name of your collection
+- Run the newly renamed executable (Rename_&_Run.bat >> Digimon Collection.bat) to set the name of your collection.
 - Place your uncompressed roms & scraped images in the "Roms" folder
-- Copy the new collection to the "Best" folder on the TrimUI Smart Pro
+- Copy the new collection in the "Best" folder on the TrimUI Smart Pro
 - Done!
 
 ## Change the default Background & Icon
 
 - Go to https://pixlr.com/express/ & open the "bg.pxz / icon.pxz" in the "EasyCollection\Template" folder
-- Make your changes & save them as a "PNG" - "bg.png" for the background & "icon.png" for the icon
+- Make your changes & save them as a "PNG" ("bg.png" for the background & "icon.png" for the icon)
 - Delete / Replace the default files with yours
 - Done!
 
+## Supported File Extensions
+
+| System | Extension |
+| FBA NEO | .ZIP |
+| Atari 2600 | .A26 |
+| WonderSwan | .WSC / .WS |
+| PC Engine | .PCE |
+| Gameboy | .GB |
+| Gameboy Colour | .GBC |
+| Gameboy Advance | .GBA |
+| NES | .NES |
+| SNES | .SMC / .SFC |
+| N64 | .Z64 |
+| NDS | .NDS |
+| MasterSystem | .SMS |
+| Megadrive / Genesis | .MD |
+| GameGear | .GG |
+| Dreamcast | .CDI / .GDI |
+| Playstation | .CUE / .M3U / .CHD |
+| PSP | .CSO / .ISO |
 # Credits & Thanks
 
 Jack Brookes (Template Photos) - https://www.flickr.com/photos/73665389@N02/albums/72157651214652751
