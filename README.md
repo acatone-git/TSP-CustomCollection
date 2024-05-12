@@ -14,14 +14,14 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 - Place your **uncompressed roms** & scraped images in the "Roms" folder (Check the *Supported Extensions* list)
 - Copy the new collection in the "Best" folder on the TrimUI Smart Pro
 
-## Change the default Background & Icon
+### Change the default Background & Icon
 
 - Go to https://pixlr.com/express/ & open the "bg.pxz / icon.pxz" in the "EasyCollection\Template" folder
 - Make your changes & save them as a "PNG" ("bg.png" for the background & "icon.png" for the icon)
 - Delete / Replace the default files with yours
 - Done!
 
-## Supported Extensions
+### Supported Extensions
 
 | System | Core | Extension |
 |     :---:    |     :---:      |     :---:      |
