@@ -22,25 +22,25 @@
 
 ## Supported Extensions
 
-| System | Extension |
-|     :---:    |     :---:      |
-| FBA NEO | .ZIP |
-| Atari 2600 | .A26 |
-| WonderSwan | .WSC / .WS |
-| PC Engine | .PCE |
-| Gameboy | .GB |
-| Gameboy Colour | .GBC |
-| Gameboy Advance | .GBA |
-| NES | .NES |
-| SNES | .SMC / .SFC |
-| N64 | .Z64 |
-| NDS | .NDS |
-| MasterSystem | .SMS |
-| Megadrive / Genesis | .MD |
-| GameGear | .GG |
-| Dreamcast | .CDI / .GDI |
-| Playstation | .CUE / .M3U / .CHD |
-| PSP | .CSO / .ISO |
+| System | Core | Extension |
+|     :---:    |     :---:      |     :---:      |
+| FBA NEO | fbneo_libretro | .ZIP |
+| Atari 2600 | stella_libretro | .A26 |
+| WonderSwan | mednafen_wswan_libretro | .WSC / .WS |
+| PC Engine | mednafen_supergrafx_libretro | .PCE |
+| Gameboy | gambatte_libretro | .GB |
+| Gameboy Colour | gambatte_libretro | .GBC |
+| Gameboy Advance | mgba_libretro | .GBA |
+| NES | fceumm_libretro | .NES |
+| SNES | snes9x2005_libretro | .SMC / .SFC |
+| N64 | mupen64plus_libretro | .Z64 |
+| NDS | Drastic (Standalone) | .NDS |
+| MasterSystem | picodrive_libretro | .SMS |
+| Megadrive / Genesis | picodrive_libretro | .MD |
+| GameGear | picodrive_libretro | .GG |
+| Dreamcast | flycast_libretro | .CDI / .GDI |
+| Playstation | pcsx_rearmed_libretro | .CUE / .M3U / .CHD |
+| PSP | PPSSPP (Standalone) | .CSO / .ISO |
 
 # Credits & Thanks
 
