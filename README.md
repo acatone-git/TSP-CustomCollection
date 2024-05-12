@@ -21,7 +21,7 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 
 ## Copy the Collection to the TSP 
 
-- Copy your newly created collection (ex. Cozy Games) to the "Best" folder on the TrimUI Smart Pro
+- Copy your custom collection (ex. Cozy Games) to the "Best" folder on the TrimUI Smart Pro
 - Enjoy!
 
 # Supported Extensions
