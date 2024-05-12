@@ -8,7 +8,7 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
  
  ## 1. Create / Naming a Custom Collection
 
-- Download & extract the TSP-CustomCollection archive from the [release page]()
+- Download & extract the TSP-CustomCollection archive from the [release page](https://github.com/acatone-git/TSP-CustomCollection/releases)
 - Rename the extracted folder & the "Rename_&_Run.bat" file to whatever you wish to name your collection
   - *Cozy Games, Best Fighting Games, Digimon Collection etc.*
 - Run the newly renamed executable to set the name of your collection (ex. Cozy Games.bat >> **Cozy Games**) 
