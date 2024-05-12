@@ -17,8 +17,8 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 ## Change the default Background & Icon
 
 - Go to https://pixlr.com/express/ & open the "bg.pxz / icon.pxz" in the "EasyCollection\Template" folder
-- Make your changes & save them as a "PNG" ("bg.png" for the background & "icon.png" for the icon)
-- Delete / Replace the default files with yours
+- Make your changes & save them as a "PNG" ("bg.png" & "icon.png" respectively)
+- Replace the default files with the ones you've just created
 - Done!
 
 # Supported Extensions
