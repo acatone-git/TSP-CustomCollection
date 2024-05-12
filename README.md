@@ -13,7 +13,6 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 - Run the newly renamed executable to set the name of your collection (ex. Cozy Games.bat) 
 - Place your **uncompressed roms** & scraped images in the "Roms" folder (Check the *Supported Extensions* list)
 - Copy the new collection in the "Best" folder on the TrimUI Smart Pro
-- Done!
 
 ## Change the default Background & Icon
 
