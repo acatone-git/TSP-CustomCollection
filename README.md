@@ -1,14 +1,14 @@
-# TSP-EasyCollection
+# TSP-CustomCollection
 
 A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 
-![Demo](https://github.com/acatone-git/TSP-EasyCollection/assets/67967964/ad24cd6b-49a7-449d-bf7b-5d6d775bf1b5)
+![demo](https://github.com/acatone-git/TSP-CustomCollection/assets/67967964/197d94fa-3911-4bfa-b9f3-18a48cbdb1bc)
 
 # Instructions
  
  ## 1. Create / Naming a Custom Collection
 
-- Download & extract the TSP-EasyCollection archive from the [release page](https://github.com/acatone-git/TSP-EasyCollection/releases)
+- Download & extract the TSP-CustomCollection archive from the [release page]()
 - Rename the extracted folder & the "Rename_&_Run.bat" file to whatever you wish to name your collection
   - *Cozy Games, Best Fighting Games, Digimon Collection etc.*
 - Run the newly renamed executable to set the name of your collection (ex. Cozy Games.bat >> **Cozy Games**) 
@@ -17,7 +17,7 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 
 - Go to https://pixlr.com/express/ & open the "bg.pxz / icon.pxz" in the "Templates" folder
 - Make your changes & save them as a "PNG" ("bg.png" & "icon.png" respectively)
-- Replace the default files in the EasyCollection with the ones you've just created
+- Replace the default files in the Custom Collection with the ones you've just created
 
 ## 3. Copy ROMs & Custom Collection to the TSP 
 
