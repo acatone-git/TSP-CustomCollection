@@ -6,7 +6,7 @@
  
  ## Create / Naming a Collection
 
-- Download & extract the EasyCollection template from the release page
+- Download & extract the EasyCollection archive from the release page
 - Rename the extracted folder (EasyColletion) & the executable "Rename_&_Run" to whatever you wish to name your collection (Digimon Collection, Final Fantasy Collection etc.)
 - Run the newly renamed executable (Rename_&_Run.bat >> Digimon Collection.bat) to set the name of your collection.
 - Place your **uncompressed roms** & scraped images in the "Roms" folder (Check the Supported Extension list below)
