@@ -1,5 +1,7 @@
 # TSP-EasyCollection
 
+Create Custom Collections on the TrimUI Smart Pro
+
 ![Demo](https://github.com/acatone-git/TSP-EasyCollection/assets/67967964/ad24cd6b-49a7-449d-bf7b-5d6d775bf1b5)
 
 # Instructions
