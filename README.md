@@ -51,6 +51,6 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 
 # Credits & Thanks
 
-J- ack Brookes (Default Template Photos) - https://www.flickr.com/photos/73665389@N02/albums/72157651214652751
+- Jack Brookes (Default Template Photos) - https://www.flickr.com/photos/73665389@N02/albums/72157651214652751
 - Pixlr (Cloud-Based Editor) - https://pixlr.com/
 - FART (Find And Replace Text) - https://github.com/lionello/fart-it
