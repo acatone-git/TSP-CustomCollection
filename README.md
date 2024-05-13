@@ -31,7 +31,7 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 
 | System | RA Core / Emulator Used| Extension |
 |     :---:    |     :---:      |     :---:      |
-| FBA NEO | fbneo_libretro | .ZIP |
+| Arcade | fbneo_libretro | .ZIP |
 | Atari 2600 | stella_libretro | .A26 |
 | WonderSwan | mednafen_wswan_libretro | .WSC / .WS |
 | PC Engine | mednafen_supergrafx_libretro | .PCE |
