@@ -27,6 +27,8 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 - Copy your custom collection (ex. Cozy Games) to the "Best" folder on the TrimUI Smart Pro
 - Enjoy!
 
+# Extras / Details
+
 ## CrossMix Variant (Optional)
 
 - Download & extract the CrossMix-Variant archive from the [release page](https://github.com/acatone-git/TSP-CustomCollection/releases)
