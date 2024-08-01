@@ -1,4 +1,4 @@
-# TSP-CustomCollection
+# TSP-CustomCollection (Stock OS)
 
 A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 
@@ -26,6 +26,15 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
    - Check the *Supported file extensions* list below for more details
 - Copy your custom collection (ex. Cozy Games) to the "Best" folder on the TrimUI Smart Pro
 - Enjoy!
+
+## CrossMix Variant (Optional)
+
+- Download & extract the CrossMix Variant archive from the [release page](https://github.com/acatone-git/TSP-CustomCollection/releases)
+- Replace the default launch.sh with the one from the CrossMix Variant
+
+## Troubleshooting
+
+- If the ROMS don't show up in the list, try removing the "Roms_cache7.db" file in the collection "Roms" folder or Restarting the TSP
 
 # Supported File Extensions
 
