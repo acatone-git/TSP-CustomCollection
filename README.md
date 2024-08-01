@@ -31,9 +31,9 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 
 ## CrossMix Variant
 
-- Download & extract the CrossMix-Variant archive from the [release page](https://github.com/acatone-git/TSP-CustomCollection/releases)
-- Replace the default "launch.sh" with the one from the CrossMix Variant
-
+- Download & extract the TSP-CustomCollection-CMV archive from the [release page](https://github.com/acatone-git/TSP-CustomCollection/releases)
+- Use the previous instructions / templates for the rest of the setup
+ 
 ## Troubleshooting
 
 - If the ROMS don't show up in the list, try removing the "Roms_cache7.db" file in the collection "Roms" folder / Restarting the TSP
