@@ -29,7 +29,7 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 
 ## CrossMix Variant (Optional)
 
-- Download & extract the CrossMix Variant archive from the [release page](https://github.com/acatone-git/TSP-CustomCollection/releases)
+- Download & extract the CrossMix-Variant archive from the [release page](https://github.com/acatone-git/TSP-CustomCollection/releases)
 - Replace the default launch.sh with the one from the CrossMix Variant
 
 ## Troubleshooting
