@@ -34,7 +34,7 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 
 ## Troubleshooting
 
-- If the ROMS don't show up in the list, try removing the "Roms_cache7.db" file in the collection "Roms" folder or Restarting the TSP
+- If the ROMS don't show up in the list, try removing the "Roms_cache7.db" file in the collection "Roms" folder / Restarting the TSP
 
 # Supported File Extensions
 
