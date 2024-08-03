@@ -46,8 +46,7 @@ A simpler / faster way to create custom collections on the TrimUI Smart Pro!
 | Atari 2600 | stella_libretro | .A26 |
 | WonderSwan | mednafen_wswan_libretro | .WSC / .WS |
 | PC Engine | mednafen_supergrafx_libretro | .PCE |
-| Gameboy | gambatte_libretro | .GB |
-| Gameboy Colour | gambatte_libretro | .GBC |
+| Gameboy / Gameboy Colour | gambatte_libretro | .GB / .GBC|
 | Gameboy Advance | mgba_libretro | .GBA |
 | NES | fceumm_libretro | .NES |
 | SNES | snes9x2005_libretro | .SMC / .SFC |
